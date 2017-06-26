@@ -3,4 +3,4 @@
 
 后期会增加多列选择，滚轮联动
 
-![image](https://github.com/HoHoDoDo/PickerView/blob/master/PickerViewDemo/screenshots/PickerViewTest.gif?raw=true)
+![image](https://github.com/HoHoDoDo/PickerView/blob/master/PickerView/screenshots/PickerViewTest.gif?raw=true)
